@@ -1,0 +1,4 @@
+node_modules/
+dist/
+data/borrowloop.sqlite
+data/borrowloop.sqlite.tmp
